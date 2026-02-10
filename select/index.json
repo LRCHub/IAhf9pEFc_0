@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Don't Blink",
+  "base_artist": "aespa",
+  "createdAt": "2026-02-10T20:55:23.875991Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Blink",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/01_Don't_Blink_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Blink",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/02_Don't_Blink_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Blink",
+      "artist": "Haarper",
+      "has_synced": false,
+      "path": "select/03_Don't_Blink_Haarper.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Blink",
+      "artist": "HAARPER",
+      "has_synced": false,
+      "path": "select/04_Don't_Blink_HAARPER.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Blink",
+      "artist": "Fancy Hagood",
+      "has_synced": true,
+      "path": "select/05_Don't_Blink_Fancy_Hagood.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Blink",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/06_Don't_Blink_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Blink",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/07_Don't_Blink_aespa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't Blink",
+      "artist": "Relient K",
+      "has_synced": true,
+      "path": "select/08_Don't_Blink_Relient_K.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Blink",
+      "artist": "aespa (에스파)",
+      "has_synced": true,
+      "path": "select/09_Don't_Blink_aespa_(에스파).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don’t Blink",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/10_Don’t_Blink_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Blink",
+      "artist": "P.O.T.",
+      "has_synced": false,
+      "path": "select/11_Don't_Blink_P.O.T..txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Blink!",
+      "artist": "Eliozie",
+      "has_synced": true,
+      "path": "select/12_Don't_Blink!_Eliozie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Blink",
+      "artist": "Quasimoto",
+      "has_synced": false,
+      "path": "select/13_Don't_Blink_Quasimoto.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "aespa 'Don't Blink' (Official Audio)",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/14_aespa_'Don't_Blink'_(Official_Audio)_aespa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don’t Blink (live at the Ritz, Raleigh, NC - 10/29/16)",
+      "artist": "Relient K",
+      "has_synced": false,
+      "path": "select/15_Don’t_Blink_(live_at_the_Ritz,_Raleigh,_NC_-_10_29_16)_Relient_K.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Blink",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/16_Don't_Blink_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Kenny Chesney - Don't Blink (Official Video)",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/17_Kenny_Chesney_-_Don't_Blink_(Official_Video)_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Don’t Blink",
+      "artist": "Blithe",
+      "has_synced": true,
+      "path": "select/18_Don’t_Blink_Blithe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Blink",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Blink_aespa.txt"
+    }
+  ]
+}
